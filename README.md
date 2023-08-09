@@ -1,2 +1,2 @@
 # Analise-de-Dados-Python
-Projeto Ficticío: Fomos contratados pelo Walmart com o objetivo de analisar as vendas de 45 lojas e através dessa análise apontar quais dessas lojas oferece o melhore retorno para ser investida.
+Projeto Fictício: Contratados pelo Walmart com o objetivo de analisar as vendas de 45 lojas, através da análise de dados mostrar quais dessas lojas deve o foco para investimentos.
